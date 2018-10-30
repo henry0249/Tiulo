@@ -1,6 +1,6 @@
 # Tiulo
 
-> A Vue.js project
+> A Vue.js project  -->  This is a logistics communication platform developed on the basis of WeChat public account, providing communication and communication between drivers, merchants and enterprises and realizing convenient one-button storage thinking
 
 ## Build Setup
 
